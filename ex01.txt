@@ -1,6 +1,10 @@
-this is my git ex01
+This is my git ex01
 测试1
 
 修改1
+Git is a distributed version control system.
+Git is free software.
+
+修改2
 Git is a distributed version control system.
 Git is free software.

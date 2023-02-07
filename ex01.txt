@@ -1,2 +1,6 @@
 this is my git ex01
-测试行1
+测试1
+
+修改1
+Git is a distributed version control system.
+Git is free software.

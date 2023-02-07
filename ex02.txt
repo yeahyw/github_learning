@@ -1,5 +1,0 @@
-this is my git ex02
-测试行1
-
-修改1
-Git has a mutable index called stage.
